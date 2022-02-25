@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode learning 
+My LeetCode learning record
